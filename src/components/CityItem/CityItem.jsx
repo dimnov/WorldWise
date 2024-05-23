@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { useCities } from "../../contexts/citiesContext.jsx";
+import { useCities } from "../../contexts/CitiesContext.jsx";
 import styles from "./CityItem.module.css";
 
 const formatDate = (date) =>
