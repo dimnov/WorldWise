@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,211 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "id": "d10c",
+      "cityName": "Angues",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-20T21:08:17.602Z",
+      "notes": "",
+      "position": {
+        "lat": "42.10637370579326",
+        "lng": "-0.20874023437500003"
+      }
+    },
+    {
+      "id": "2232",
+      "cityName": "Zaragoza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-20T21:11:11.610Z",
+      "notes": "",
+      "position": {
+        "lat": "41.64828831259535",
+        "lng": "-0.8020019531250001"
+      }
+    },
+    {
+      "id": "36f7",
+      "cityName": "Teruel",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-20T21:11:37.526Z",
+      "notes": "",
+      "position": {
+        "lat": "40.329795743702064",
+        "lng": "-1.0986328125000002"
+      }
+    },
+    {
+      "id": "2b83",
+      "cityName": "Albacete",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-20T21:14:10.890Z",
+      "notes": "",
+      "position": {
+        "lat": "38.98503278695909",
+        "lng": "-1.8237304687500002"
+      }
+    },
+    {
+      "id": "e130",
+      "cityName": "Caceres",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-20T21:14:18.906Z",
+      "notes": "",
+      "position": {
+        "lat": "39.470125122358176",
+        "lng": "-6.339111328125001"
+      }
+    },
+    {
+      "id": "cb48",
+      "cityName": "Merida",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-20T21:14:27.381Z",
+      "notes": "",
+      "position": {
+        "lat": "38.93377552819722",
+        "lng": "-6.273193359375"
+      }
+    },
+    {
+      "id": "aea9",
+      "cityName": "Campo Maior",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-05-20T21:14:31.011Z",
+      "notes": "",
+      "position": {
+        "lat": "38.950865400919994",
+        "lng": "-7.075195312500001"
+      }
+    },
+    {
+      "id": "7c46",
+      "cityName": "Campo Maior",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-05-20T21:14:31.011Z",
+      "notes": "",
+      "position": {
+        "lat": "38.950865400919994",
+        "lng": "-7.075195312500001"
+      }
+    },
+    {
+      "id": "4821",
+      "cityName": "Campo Maior",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-05-20T21:14:31.011Z",
+      "notes": "",
+      "position": {
+        "lat": "38.950865400919994",
+        "lng": "-7.075195312500001"
+      }
+    },
+    {
+      "id": "58d0",
+      "cityName": "Campo Maior",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-05-20T21:14:31.011Z",
+      "notes": "",
+      "position": {
+        "lat": "38.950865400919994",
+        "lng": "-7.075195312500001"
+      }
+    },
+    {
+      "id": "bebd",
+      "cityName": "Campo Maior",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-05-20T21:14:31.011Z",
+      "notes": "",
+      "position": {
+        "lat": "38.950865400919994",
+        "lng": "-7.075195312500001"
+      }
+    },
+    {
+      "id": "9b3e",
+      "cityName": "Campo Maior",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-05-20T21:14:31.011Z",
+      "notes": "",
+      "position": {
+        "lat": "38.950865400919994",
+        "lng": "-7.075195312500001"
+      }
+    },
+    {
+      "id": "c871",
+      "cityName": "Campo Maior",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-05-20T21:14:31.011Z",
+      "notes": "",
+      "position": {
+        "lat": "38.950865400919994",
+        "lng": "-7.075195312500001"
+      }
+    },
+    {
+      "id": "6c6d",
+      "cityName": "Campo Maior",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-05-20T21:14:31.011Z",
+      "notes": "",
+      "position": {
+        "lat": "38.950865400919994",
+        "lng": "-7.075195312500001"
+      }
+    },
+    {
+      "id": "a25c",
+      "cityName": "Campo Maior",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-05-20T21:14:31.011Z",
+      "notes": "",
+      "position": {
+        "lat": "38.950865400919994",
+        "lng": "-7.075195312500001"
+      }
+    },
+    {
+      "id": "6f6b",
+      "cityName": "Campo Maior",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-05-20T21:14:31.011Z",
+      "notes": "",
+      "position": {
+        "lat": "38.950865400919994",
+        "lng": "-7.075195312500001"
+      }
+    },
+    {
+      "id": "adbe",
+      "cityName": "Armamar",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-05-20T21:17:07.601Z",
+      "notes": "",
+      "position": {
+        "lat": "41.07935114946899",
+        "lng": "-7.723388671875001"
+      }
     }
   ]
 }
